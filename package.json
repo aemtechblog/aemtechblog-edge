@@ -1,5 +1,5 @@
 {
-  "name": "@adobe/aem-boilerplate",
+  "name": "@adobe/aemtechblog-edge",
   "private": true,
   "version": "1.3.0",
   "description": "Starter project for Adobe Helix",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adobe/aem-boilerplate.git"
+    "url": "git+https://github.com/aemtechblog/aemtechblog-edge.git"
   },
   "author": "Adobe",
   "license": "Apache License 2.0",
   "bugs": {
-    "url": "https://github.com/adobe/aem-boilerplate/issues"
+    "url": "https://github.com/aemtechblog/aemtechblog-edge/issues"
   },
-  "homepage": "https://github.com/adobe/aem-boilerplate#readme",
+  "homepage": "https://github.com/aemtechblog/aemtechblog-edge#readme",
   "devDependencies": {
     "@babel/core": "7.24.4",
     "@babel/eslint-parser": "7.24.1",
